@@ -1,3 +1,8 @@
+# for loop on range length
+# add the element
+# if the index is greater than equal to k-1 remove the starting element
+# append the result
+
 def find_averages_of_sub_arrays(k, arr):
     averages = []
     window_sum = 0

@@ -1,3 +1,9 @@
+# for loop on range length
+# add the element
+# if the index is greater than equal to k-1, remove the starting element
+# append the result
+
+
 def max_sub_array_of_size_k(k, arr):
     window_sum = 0
     max_window_sum = 0
