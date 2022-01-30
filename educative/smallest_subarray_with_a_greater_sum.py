@@ -3,8 +3,6 @@
 # increase the right index till subarray sum is less than k
 # increase the left index till subarray sum is more than k
 
-
-from cgitb import small
 import math
 
 def smallest_subarray_with_a_greater_sum(k, arr):
