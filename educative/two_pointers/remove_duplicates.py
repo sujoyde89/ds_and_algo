@@ -1,7 +1,7 @@
 # non duplicate index 1
-# index 1
-# increment index
-# if duplicate do nothing increment index but dont do anything with non duplicate
+# i = 1
+# increment i
+# if duplicate do nothing increment i but dont do anything with non duplicate index
 # if non duplicate replace element of index with non duplicate
 
 def remove_duplicates(arr):
